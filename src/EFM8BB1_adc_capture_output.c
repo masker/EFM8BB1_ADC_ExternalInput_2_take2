@@ -1,4 +1,4 @@
-// Dummy change to the comment to check that GitHub desktop picks up the change correcly
+// Dummy change to the comment to check that GitHub desktop picks up the change correctly
 
 //-----------------------------------------------------------------------------
 // EFM8BB1_ADC_ExternalInput.c
